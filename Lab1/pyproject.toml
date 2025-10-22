@@ -13,7 +13,8 @@ dependencies = [
     "torchviz (>=0.0.3,<0.0.4)",
     "torchvision (>=0.23.0,<0.24.0)",
     "certifi (>=2025.10.5,<2026.0.0)",
-    "matplotlib (>=3.10.7,<4.0.0)"
+    "matplotlib (>=3.10.7,<4.0.0)",
+    "pandas (>=2.3.3,<3.0.0)"
 ]
 
 
