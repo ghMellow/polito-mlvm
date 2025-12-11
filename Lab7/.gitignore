@@ -1,0 +1,4 @@
+*.zip
+Christmas Tree/*
+*.pth
+poetry.lock
